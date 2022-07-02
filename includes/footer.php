@@ -6,7 +6,6 @@
         <span><i class="fab fa-lg fa-instagram"></i> Instagram</span>
     </div>
 </div>
-<!-- footer added -->
 <div class="footer-section footer-section2">
     <h2><i class="fas fa-map-marked"></i> Na Vizitoni</h2>
     <div class="footer-section-inner-container">
