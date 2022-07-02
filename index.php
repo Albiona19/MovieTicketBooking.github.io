@@ -12,6 +12,7 @@
     <link rel="icon" type="image/png" href="img/logo.png">
 </head>
 <body>
+    <!-- pictures added -->
     <?php
     $link = mysqli_connect("localhost", "root", "", "cinema_db");
     $sql = "SELECT * FROM movieTable";
