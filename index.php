@@ -11,7 +11,6 @@
     <title>Cheers Cinema</title>
     <link rel="icon" type="image/png" href="img/logo.png">
 </head>
-<!-- php added -->
 <body>
     <?php
     $link = mysqli_connect("localhost", "root", "", "cinema_db");
