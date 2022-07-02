@@ -12,7 +12,6 @@
 </head>
 
 <header></header>
-<!-- comment -->
 <body>
     <div class="schedule-section">
         <h1>Orari</h1>
