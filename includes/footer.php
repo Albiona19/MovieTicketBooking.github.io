@@ -13,8 +13,8 @@
     </div>
 </div>
 <div class="footer-section  footer-section3">
-    <p>© 2020 Cheers Cinema. Created by Besar Tasholli & Nderim Murati & Qendrim Rexhepi </p>
-    <a>Advertising</a>
-    <a>Privacy Policy</a>
-    <a>Contact </a>
+    <p>© 2022 3D Cinema. Created by ABF </p>
+    <a href="">Advertising</a>
+    <a href="">Privacy Policy</a>
+    <a href="">Contact </a>
 </div>
