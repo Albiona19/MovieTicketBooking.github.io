@@ -8,7 +8,7 @@
         <ul class="navbar-menu">
             <li><a href="index.php">Home</a></li>
             <li><a href="schedule.php">Orari</a></li>
-            <li><a href="#">Aktoret</a></li>
+            <li><a href="aktoret.php">Aktoret</a></li>
            
             <li><a href="contact-us.php">Kontakti</a></li>
         </ul>
