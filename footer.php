@@ -13,7 +13,7 @@
     </div>
 </div>
 <div class="footer-section  footer-section3">
-    <p>© 2020 Cheers Cinema. Created by Besar Tasholli & Nderim Murati & Qendrim Rexhepi </p>
+    <p>© 2022 Cheers Cinema. Created by Besar Tasholli & Nderim Murati & Qendrim Rexhepi </p>
     <a>Advertising</a>
     <a>Privacy Policy</a>
     <a>Contact </a>

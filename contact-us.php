@@ -16,7 +16,7 @@
         $link = mysqli_connect("localhost", "root", "", "cinema_db");
 ?>
     <header></header>
-    <div class="gmap_canvas"><iframe id="gmap_canvas" src="https://maps/place/Kalabria,+Pristina/@42.6406699,21.1321154,15z/data=!3m1!4b1!4m5!3m4!1s0x13549e8867f0daf9:0xbf5af60cc3bb87aa!8m2!3d42.6432421!4d21.1435284" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    <div class="gmap_canvas"><iframe id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23479.80198512331!2d21.123360518730358!3d42.640684686328534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13549e8867f0daf9%3A0xbf5af60cc3bb87aa!2sKalabria%2C%20Pristina!5e0!3m2!1sen!2s!4v1656880518153!5m2!1sen!2s" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
     </div>
     <div class="contact-us-container">
         <div class="contact-us-section contact-us-section1">
@@ -57,9 +57,9 @@
         </div>
     </div>
     <footer></footer>
-    <script src="scripts/jquery-3.3.1.min.js "></script>
-    <script src="scripts/owl.carousel.min.js "></script>
-    <script src="scripts/script.js "></script>
+    <script src="./scripts/jquery-3.3.1.min.js "></script>
+    <script src="./scripts/owl.carousel.min.js "></script>
+    <script src="./scripts/script.js "></script>
 </body>
 
 </html>

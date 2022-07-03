@@ -13,7 +13,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="style/styles.css">
+    <link rel="stylesheet" href="./style/styles.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
         integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <title>Book <?php echo $row['movieTitle']; ?>Tani</title>
@@ -81,11 +81,11 @@
 
                     <select name="date" required>
                         <option value="" disabled selected>Data</option>
-                        <option value="12-3">July 12,2020</option>
-                        <option value="13-3">July 13,2020</option>
-                        <option value="14-3">July 14,2020</option>
-                        <option value="15-3">July 15,2020</option>
-                        <option value="16-3">July 16,2020</option>
+                        <option value="12-3">July 12,2022</option>
+                        <option value="13-3">July 13,2022</option>
+                        <option value="14-3">July 14,2022</option>
+                        <option value="15-3">July 15,2022</option>
+                        <option value="16-3">July 16,2022</option>
                     </select>
 
                     <select name="hour" required>
@@ -149,8 +149,8 @@
         </div>
     </div>
 
-    <script src="scripts/jquery-3.3.1.min.js "></script>
-    <script src="scripts/script.js "></script>
+    <script src="./scripts/jquery-3.3.1.min.js "></script>
+    <script src="./scripts/script.js "></script>
 </body>
 
 </html>

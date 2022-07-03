@@ -23,13 +23,13 @@
     ?>
     <div class="admin-section-header">
         <div class="admin-logo">
-          Cheers Cinema
+          3D Cinema
         </div>
         <div class="admin-login-info">
             <i class="far fa-bell admin-notification-button"></i>
             <i class="far fa-comment-alt"></i>
             <a href="#">Miresevini, Admin</a>
-            <img class="admin-user-avatar" src="../img/avatar.png" alt="">
+            <img class="admin-user-avatar" src="./img/avatar.png" alt="">
         </div>
     </div>
     <div class="admin-container">

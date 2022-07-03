@@ -1,3 +1,4 @@
+
 <div class="navbar-brand">
     <a href="index.php">
         <h1 class="navbar-heading">Cheers Cinema</h1>
