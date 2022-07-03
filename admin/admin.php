@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Admin Dashboard</title>
     <link rel="icon" type="image/png" href="../img/logo.png">
-    <link rel="stylesheet" href="../style/styles.css">
+    <link rel="stylesheet" href="./style/styles.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
         integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
@@ -35,13 +35,11 @@
         <div class="admin-section admin-section1 ">
             <ul>
                 <li><i class="fas fa-sliders-h"></i><a href="admin.php">Dashboard </a><i class="fas admin-dropdown fa-chevron-right"></i></li>
-<<<<<<< HEAD
+
                 <li><i class="fas fa-ticket-alt"></i><a href="">Rezervimet</a> <i class="fas admin-dropdown fa-chevron-right"></i></li>
-                <li class="admin-navigation-schedule"><i class="fas fa-calendar-alt"></i>Orari <i
-=======
+                <li class="admin-navigation-schedule"><i class="fas fa-calendar-alt"></i>Orari 
                 <li><i class="fas fa-ticket-alt"></i><a href="">Bookings</a> <i class="fas admin-dropdown fa-chevron-right"></i></li>
                 <li class="admin-navigation-schedule"><i class="fas fa-calendar-alt"></i>Schedule <i
->>>>>>> 56e28225efc6601222c72206dff1f01f20fc07ce
                         class="fas admin-dropdown fa-chevron-right"></i>
                 </li>
                 <ul class="admin-navigation-schedule-dropdwn hidden-div">
@@ -172,9 +170,9 @@
         </div>
     </div>
 
-    <script src="../scripts/jquery-3.3.1.min.js "></script>
-    <script src="../scripts/owl.carousel.min.js "></script>
-    <script src="../scripts/script.js "></script>
+    <script src="./scripts/jquery-3.3.1.min.js "></script>
+    <script src="./scripts/owl.carousel.min.js "></script>
+    <script src="./scripts/script.js "></script>
 </body>
 
 </html>
