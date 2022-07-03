@@ -16,11 +16,11 @@
     <div class="schedule-section">
         <h1>Orari</h1>
         <div class="schedule-dates">
-            <div class="schedule-item">July 10,2020</div>
-            <div class="schedule-item schedule-item-selected">July 11,2020</div>
-            <div class="schedule-item">July 12,2020</div>
-            <div class="schedule-item">July 13,2020</div>
-            <div class="schedule-item">July 14,2020</div>
+            <div class="schedule-item">July 10,2022</div>
+            <div class="schedule-item schedule-item-selected">July 11,2022</div>
+            <div class="schedule-item">July 12,2022</div>
+            <div class="schedule-item">July 13,2022</div>
+            <div class="schedule-item">July 14,2022</div>
         </div>
         <div class="schedule-table">
             <table>
